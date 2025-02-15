@@ -9,19 +9,6 @@
 <div align="left">
 </div>
 
-###
-
-<div align="center">
-  <a href="https://instagram.com/lynxedgesolution" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lynxedgesolution" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="250" src="https://media4.giphy.com/media/QiOERH5wxEr0yQaiPi/giphy.gif?cid=6c09b952hixvtgarohx99k8gq4sqwn50zier104gddicr3zd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -102,13 +89,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lynxedgesolution/lynxedgesolution/output/snake.svg" alt="Snake animation" />
-
-###
 # 💫 About Us:
 🌱 We're Currently Learning : CyberSecurity.<br>💬 Ask Us about : AI Services, CyberSecurity ...<br>📫 How To Reach Us : https://bit.ly/lynxedgesolution<br>
 
@@ -122,6 +102,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=lynxedgesolution&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lynxedgesolution&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynxedgesolution&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lynxedgesolution/lynxedgesolution/output/snake.svg" alt="Snake animation"/>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lynxedgesolution&icon=0&color=0)](https://visitcount.itsvg.in)
