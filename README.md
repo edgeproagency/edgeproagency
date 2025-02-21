@@ -1,4 +1,4 @@
-<h1 align="center">LynxEdge Solution</h1>
+<h1 align="center">EdgePro</h1>
 
 ###
 
